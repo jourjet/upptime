@@ -4,19 +4,19 @@
     "url": "https://qms.unimerce.id",
     "icon": "https://favicons.githubusercontent.com/qms.unimerce.id",
     "slug": "unimerce-qms",
-    "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1197,
-    "timeDay": 1197,
-    "timeWeek": 1197,
-    "timeMonth": 1197,
-    "timeYear": 1197,
+    "status": "up",
+    "uptime": "77.60%",
+    "uptimeDay": "77.60%",
+    "uptimeWeek": "77.60%",
+    "uptimeMonth": "77.60%",
+    "uptimeYear": "77.60%",
+    "time": 1143,
+    "timeDay": 1143,
+    "timeWeek": 1143,
+    "timeMonth": 1143,
+    "timeYear": 1143,
     "dailyMinutesDown": {
-      "2022-05-17": 1
+      "2022-05-17": 158
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://upfos.co.id",
     "icon": "https://favicons.githubusercontent.com/upfos.co.id",
     "slug": "upfos-indonesia",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 7003,
-    "timeDay": 7003,
-    "timeWeek": 7003,
-    "timeMonth": 7003,
-    "timeYear": 7003,
+    "status": "up",
+    "uptime": "77.65%",
+    "uptimeDay": "77.65%",
+    "uptimeWeek": "77.65%",
+    "uptimeMonth": "77.65%",
+    "uptimeYear": "77.65%",
+    "time": 7034,
+    "timeDay": 7034,
+    "timeWeek": 7034,
+    "timeMonth": 7034,
+    "timeYear": 7034,
     "dailyMinutesDown": {
-      "2022-05-17": 0
+      "2022-05-17": 158
     }
   }
 ]
