@@ -29,7 +29,7 @@
     "url": "https://upfos.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/upfos.co.id.ico",
     "slug": "upfos-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 9602,
     "timeYear": 7870,
     "dailyMinutesDown": {
+      "2023-01-20": 0,
       "2022-11-17": 23,
       "2022-10-26": 238,
       "2022-10-25": 1252,
