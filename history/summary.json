@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qms.unimerce.id.ico",
     "slug": "unimerce-qms",
     "status": "down",
-    "uptime": "89.89%",
+    "uptime": "89.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.05%",
-    "time": 1227,
+    "uptimeYear": "85.79%",
+    "time": 1235,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1241,
+    "timeYear": 1240,
     "dailyMinutesDown": {
-      "2023-10-04": 36,
+      "2023-10-05": 35,
+      "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
@@ -73,8 +74,7 @@
       "2023-01-25": 49,
       "2022-12-29": 47,
       "2022-11-10": 172,
-      "2022-11-09": 966,
-      "2022-10-05": 36
+      "2022-11-09": 966
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.05%",
-    "time": 8892,
-    "timeDay": 7524,
-    "timeWeek": 10805,
-    "timeMonth": 10593,
-    "timeYear": 9561,
+    "time": 8889,
+    "timeDay": 4916,
+    "timeWeek": 10069,
+    "timeMonth": 10446,
+    "timeYear": 9554,
     "dailyMinutesDown": {
       "2023-10-02": 106,
       "2023-08-23": 40,
@@ -119,8 +119,7 @@
       "2022-11-17": 23,
       "2022-10-26": 238,
       "2022-10-25": 1252,
-      "2022-10-19": 60,
-      "2022-10-05": 22
+      "2022-10-19": 60
     }
   }
 ]
