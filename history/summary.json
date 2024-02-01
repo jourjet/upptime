@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qms.unimerce.id.ico",
     "slug": "unimerce-qms",
     "status": "down",
-    "uptime": "72.70%",
+    "uptime": "72.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.58%",
-    "time": 1244,
+    "uptimeYear": "53.42%",
+    "time": 1245,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-01-31": 642,
+      "2024-02-01": 38,
+      "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
@@ -187,8 +188,7 @@
       "2023-08-16": 1440,
       "2023-08-15": 1225,
       "2023-05-15": 58,
-      "2023-03-06": 84,
-      "2023-02-01": 37
+      "2023-03-06": 84
     }
   },
   {
@@ -197,18 +197,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/upfos.co.id.ico",
     "slug": "upfos-indonesia",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.39%",
+    "uptime": "99.30%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.18%",
-    "time": 9692,
-    "timeDay": 18902,
-    "timeWeek": 12870,
-    "timeMonth": 10896,
-    "timeYear": 10074,
+    "time": 9694,
+    "timeDay": 18905,
+    "timeWeek": 12964,
+    "timeMonth": 10823,
+    "timeYear": 10072,
     "dailyMinutesDown": {
-      "2024-01-31": 45,
+      "2024-01-31": 33,
       "2024-01-23": 26,
       "2024-01-21": 36,
       "2024-01-20": 46,
@@ -243,8 +243,7 @@
       "2023-02-21": 24,
       "2023-02-11": 51,
       "2023-02-03": 439,
-      "2023-02-02": 1440,
-      "2023-02-01": 579
+      "2023-02-02": 1440
     }
   }
 ]
