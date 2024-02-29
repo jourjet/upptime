@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qms.unimerce.id.ico",
     "slug": "unimerce-qms",
     "status": "down",
-    "uptime": "69.62%",
+    "uptime": "69.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.03%",
+    "uptimeYear": "45.76%",
     "time": 1253,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2024-02-28": 35,
+      "2024-02-29": 36,
+      "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -229,10 +230,10 @@
     "uptimeWeek": "98.27%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.59%",
-    "time": 9955,
-    "timeDay": 8265,
-    "timeWeek": 8704,
-    "timeMonth": 10879,
+    "time": 9960,
+    "timeDay": 10229,
+    "timeWeek": 8971,
+    "timeMonth": 10926,
     "timeYear": 10137,
     "dailyMinutesDown": {
       "2024-02-23": 21,
@@ -271,8 +272,7 @@
       "2023-06-15": 26,
       "2023-06-06": 34,
       "2023-03-14": 27,
-      "2023-03-06": 83,
-      "2023-03-01": 23
+      "2023-03-06": 83
     }
   }
 ]
