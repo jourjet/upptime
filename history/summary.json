@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2024-05-11": 332,
+      "2024-05-11": 345,
       "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
@@ -295,7 +295,7 @@
     "url": "https://upfos.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/upfos.co.id.ico",
     "slug": "upfos-indonesia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
     "uptimeDay": "93.30%",
     "uptimeWeek": "99.04%",
